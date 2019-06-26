@@ -1,10 +1,10 @@
-baseURL                   = "https://example.com"
+baseURL                   = "https://aselcuktuncer.github.io"
 builddrafts                = true
 languageCode               = "tr"
 canonifyurls               = true
 contentdir                 = "content"
 layoutdir                  = "layouts"
-publishdir                 = "public"
+publishdir                 = "aselcuktuncer.github.io"
 enableEmoji                = true
 hasCJKLanguage             = true
 summaryLength              = 200
