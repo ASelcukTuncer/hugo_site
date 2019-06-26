@@ -1,0 +1,86 @@
+baseURL                   = "https://example.com"
+builddrafts                = true
+languageCode               = "tr"
+canonifyurls               = true
+contentdir                 = "content"
+layoutdir                  = "layouts"
+publishdir                 = "public"
+enableEmoji                = true
+hasCJKLanguage             = true
+summaryLength              = 200
+Paginate                   = 3
+
+theme                      = "AllinOne"
+title                      = "ASelcuk"
+
+pygmentsuseclasses         = true
+
+
+[permalinks]
+  blog                     = "blog/:year-:month/:slug/"
+
+
+[taxonomies]
+  tag                      = "tags"
+  series                   = "series"
+  category                 = "categories"
+
+
+[menu]
+  [[menu.main]]
+    name                   = "Geziler"
+    weight                 = -120
+    identifier             = "geziler"
+    url                    = "geziler/"  
+
+  [[menu.main]]
+    name                   = "Yazilar"
+    weight                 = -110
+    identifier             = "yazilar"
+    url                    = "yazilar/" 
+
+  [[menu.main]]
+    name                   = "Hakkimda"
+    weight                 = -100
+    identifier             = "hakkimda"
+    url                    = "hakkimda/"  
+
+ 
+
+[params]
+  faviconfile              = ""               # from static/ img/zheng.png
+  avatar                   = "img/kedi.jpg"             # path to image in static dir e.g img/avatar.png 
+  author                   = "ASelcuk"
+  description              = ["Merak Et! Risk Al! Kesfet!",  "Bu harika dunyada yasadigini hisset!"]           # appears in the site header when set to a non-empty string
+  welcome_head             = "Merhaba, Dunya!"
+  welcome_word             = "Turkce karakter kodlama konusunda yardima ihtiyacim var :("
+
+  latestpostscount         = 5                             # how many posts to display on the home page
+  bloggroupby              = 'month'
+  dateform                 = "Jan 2, 2006"
+  dateformfull             = "2006-01-02  Monday  15:04:05"
+  noshowreadtime           = false                         # if true, don't show "<x> minutes read" in posts
+
+  # slides
+  slidesDirPath            = "themes/AllinOne/static/img/header-slides"    # path to image in local dir (path for hugo)
+  slidesDirPathURL         = "img/header-slides"    # path to image in static dir (for static pages)
+
+  # highlighting 
+  highlightjs              = true
+
+  # latex
+  katex                    = true
+
+  # links
+  email                    = "aselcuktuncer@yahoo.com"
+  github                   = "//github.com/you"
+  linkedin                 = "https://www.linkedin.com/in/ahmet-selcuk-tuncer-31861b189"
+  facebook                 = "https://www.facebook.com/aselcuk.tuncer"
+  twitter                  = "https://www.twitter.com/aselcuktuncer_" 
+ 
+  include_rss              = false                          # include RSS <link> tag in <head> and show RSS icon
+  
+  # analytics
+  googleAnalytics          = "your-google-analytic-id"
+    
+    
