@@ -1,8 +1,8 @@
-+++
+﻿+++
 date = "2019-06-26"
 draft = false
-title = "Hakkimda"
+title = "Hakkımda"
 
 +++
 
-Ben Ahmet Selcuk Tuncer. Dunyada yasayan garip bi insanim.
+Selamlar! Ben Ahmet Selçuk Tunçer. Dünya gezegeninde yaşayan garip bi insanım.

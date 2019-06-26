@@ -1,8 +1,8 @@
 +++
 date = "2019-06-26T12:58:13+03:00"
 draft = false
-title = "Yazilar"
+title = "Yazılar"
 
 +++
 
-Aklimdakileri, paylasmak istediklerimi ve onerilerimi yazıyorum.
+Aklımdakileri, paylaşmak istediklerimi ve önerilerimi yazıyorum.
