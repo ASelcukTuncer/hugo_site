@@ -12,6 +12,11 @@ Paginate                   = 3
 
 theme                      = "AllinOne"
 title                      = "ASelcuk"
+# analytics
+  googleAnalytics          = "UA-142872222-1"
+  disqusShortname		   = "https-aselcuktuncer-github-io"
+    
+    
 
 pygmentsuseclasses         = true
 
@@ -80,8 +85,4 @@ pygmentsuseclasses         = true
  
   include_rss              = false                          # include RSS <link> tag in <head> and show RSS icon
   
-  # analytics
-  googleAnalytics          = "UA-142872222-1"
-  disqusShortname		   = "https-aselcuktuncer-github-io"
-    
-    
+  
