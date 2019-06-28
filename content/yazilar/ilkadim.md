@@ -5,7 +5,6 @@ draft: true
 author: "ASelcuk"
 categories: ["Yazılar"]
 tags: ["Aklımdakiler"]
-series: [""]
 toc: true
 summary: "İlk yazım.. Cektiğim onca acıdan sonra.. Olala!"
 img: "images/yazilar/2019-6/howl.jpg"
