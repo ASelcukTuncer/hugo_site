@@ -5,4 +5,4 @@ title = "Geziler"
 
 +++
 
-Burada seyahetlerimi ve deneyimlerimi paylaşıyorum.
+Burada seyahetlerimi ve deneyimlerimi yazıyorum.

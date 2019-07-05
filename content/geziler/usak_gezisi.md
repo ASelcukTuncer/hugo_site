@@ -3,13 +3,13 @@ title: "Bisiklete Dair"
 date: 2019-06-28T22:36:29+03:00
 draft: true
 author: "ASelcuk"
-categories: ["Bisiklet"]
+categories: ["Bisiklet","Yolculuk"]
 tags: ["bisiklet","seyahat","uşak"]
 series: ["usak"]
 summary: "Bisiklet binmek ve Uşak'ta seyahat etmek hakkında.."
 toc: true
 ---
-Bisiklete binmeyi seviyorum. Pedallamak büyük özgürlük.Yalnızca size ait olan bir güçle uzun mesafeleri kat etmenizi mümkün kılıyor. Yolculuğunuz esnasında güneşi ve rüzgarı hissedebiliyor; denizi, ovaları, geçtiğiniz tüm yolu tanıyorsunuz. İnsanlığın en büyük ve anlamlı icatlarından bence özellikle doğayı, havayı ve yolları kirletmeden yalnızca tekerlek izinizi bırakarak seyahat etmenize olanak verdiğini göz önüne alırsanız. Geçtiğimiz yıllarda bisiklet turlarına ve festivallerine katıldım. Geçen yıl ise lise arkadaşım Mehmet Keleşle Çeşme-Selçuk arasında 6 gün süren acayip eğlenceli bir bisiklet turu yaptık. Bir sürü hatıra ve deneyim biriktirdik. Bu elbette bağımlılık yapıyor bi şekilde. Biz de kendimize bi hedef belirledik; Türkiye’yi kıyı şeridi ve sınırlarından bisikletle dolaşmaya karar verdik. Zamanla, her yıl biraz daha ileri giderek. Bu yazki seyahat planı da tabiki aylar öncesinden az çok belirmeye başlamıştı. Selçuk’tan başlayarak Kaş’a kadar sürecek 650 kilometrelik bir bisiklet turu. Şu an hala planlama aşamasındayız, Kaş’a kadar gidebilir miyiz(Fethiye-Kaş arasında 1000 metrelik tırmanış da olduğunu hesaba katarsak :D), rotamız nasıl olacak tam anlamıyla belirli değil henüz ama yine de şu ana kadar belirlediğimiz rotada çok fazla değişiklik yapmayız diye düşünüyorum.
+Bisiklete binmeyi seviyorum. Pedallamak büyük özgürlük. Yalnızca size ait olan bir güçle uzun mesafeleri kat etmenizi mümkün kılıyor. Yolculuğunuz esnasında güneşi ve rüzgarı hissedebiliyor; denizi, ovaları, geçtiğiniz tüm yolu tanıyorsunuz. İnsanlığın en büyük ve anlamlı icatlarından bence özellikle doğayı, havayı ve yolları kirletmeden yalnızca tekerlek izinizi bırakarak seyahat etmenize olanak verdiğini göz önüne alırsanız. Geçtiğimiz yıllarda bisiklet turlarına ve festivallerine katıldım. Geçen yıl ise lise arkadaşım Mehmet Keleşle Çeşme-Selçuk arasında 6 gün süren acayip eğlenceli bir bisiklet turu yaptık. Bir sürü hatıra ve deneyim biriktirdik. Bu elbette bağımlılık yapıyor bi şekilde. Biz de kendimize bi hedef belirledik; Türkiye’yi kıyı şeridi ve sınırlarından bisikletle dolaşmaya karar verdik. Zamanla, her yıl biraz daha ileri giderek. Bu yazki seyahat planı da tabiki aylar öncesinden az çok belirmeye başlamıştı. Selçuk’tan başlayarak Kaş’a kadar sürecek 650 kilometrelik bir bisiklet turu. Şu an hala planlama aşamasındayız, Kaş’a kadar gidebilir miyiz(Fethiye-Kaş arasında 1000 metrelik tırmanış da olduğunu hesaba katarsak :D), rotamız nasıl olacak tam anlamıyla belirli değil henüz ama yine de şu ana kadar belirlediğimiz rotada çok fazla değişiklik yapmayız diye düşünüyorum.
 
 {{% center %}}<img name="selcuk selcukta" src="/images/geziler/2019-6/usak/selcuk.jpeg" width='500px'/>{{% /center %}}
 

@@ -58,7 +58,7 @@ pygmentsuseclasses         = true
   author                   = "ASelcuk"
   description              = ["Merak Et! Risk Al! Kesfet!",  "Bu harika dunyada yasadigini hisset!"]           # appears in the site header when set to a non-empty string
   welcome_head             = "Merhaba, Dunya!"
-  welcome_word             = "Turkce karakter kodlama konusunda yardima ihtiyacim var :("
+  welcome_word             = "Hayat firtinanin gecmesini beklemek degil, yagmurda dans etmeyi ogrenmektir."
 
   latestpostscount         = 5                             # how many posts to display on the home page
   bloggroupby              = 'month'
