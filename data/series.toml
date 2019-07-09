@@ -3,6 +3,17 @@ name = "usak"
 img = "images/blog/2018-08/usak.jpeg"
 summary = "Bu sehirdeki bisiklet yolculugum.."
 
+[[series]]
+name = "ilham"
+img = "images/blog/2018-08/ilham.jpg"
+summary = ""
+
+
+
+
+
+
+
 
 
 

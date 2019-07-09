@@ -4,7 +4,7 @@ date: 2019-07-05T02:50:55+03:00
 draft: true
 author: "ASelcuk"
 categories: ["Bisiklet","Yolculuk"]
-tags: ["bisiklet","uşak","banaz","sivaslı","ulubey kanyonu","yolculuk","arkadaşlar"]
+tags: ["bisiklet","usak","banaz","sivasli","ulubey kanyonu","yolculuk","arkadaslar"]
 series: ["usak"]
 summary: "Uşak'ın ilçelerine yaptığım yolculuklara dair gezi yazıları.."
 toc: true
