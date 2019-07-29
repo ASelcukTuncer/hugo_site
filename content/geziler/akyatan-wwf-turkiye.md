@@ -3,11 +3,11 @@ title: "Akyatan'ın Yeşil Deniz Kaplumbağaları"
 date: 2019-07-29T22:59:38+03:00
 draft: true
 author: "ASelcuk"
-categories: ["yolculuk"]
+categories: ["Yolculuk"]
 tags: ["adana","akyatan","deniz kaplumbagalari","wwf-turkiye","doga","gonulluluk","seyahat"]
 toc: true
 img: "images/geziler/2019-7/akyatan/yazı.jpeg"
-summary: ".."
+summary: "..."
 
 ---
 
