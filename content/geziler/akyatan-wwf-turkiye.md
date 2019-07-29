@@ -44,7 +44,7 @@ Projeye katılan gönüllü grupları arasında en şanslı olanlar biz olabilir
 dönemi de 45-60 gün civarı sürüyor. Bu yumurtlama dönemi boyunca arazi çalışmaları yukarıda anlattığım şekilde sürüyor ancak yavru kamplumbağalar yumurtadan çıkmaya başladıkları dönemden itibaren 
 gece arazisi -gece denize ulaşmaya çalışan yavrulara zarar verilebileceği ihtimalinden ve yuvalamak için sahile çıkan anneler azaldığından ötürü- yapılmıyor ve sabah yavru kaplumbağaların yumurtadan
 çıktığı yuvaların tespiti üzerine yoğunlaşıyormuş. Biz şansımıza her iki duruma da şahit olduk. Cuma günü yaptığımız sabah arazisi sırasında Ebru yavruların izlerini görmüştü ve bizi de yanına
-çağırdı. Yuvayı kazınca 3 tane -allahım!- dünyalar tatlısı yavru bulduk. En canavar olanının adını **“Şerafettin”** koydum :D. Açılan yuvada da döllenmemiş yumurtalar, denize ulaşan yavrular ve
+çağırdı. Yuvayı kazınca 3 tane -allahım!- dünyalar tatlısı yavru bulduk. En canavar olanının adını *“Şerafettin”* koydum :D. Açılan yuvada da döllenmemiş yumurtalar, denize ulaşan yavrular ve
 hayatını kaybetmiş olanların sayısı belirlenip yuvanın derinliği ölçülüyor. Bulduğumuz 3 yavruyu gece denize bıraktık, denize koşuşları.. harikaydı.
 
 {{% center %}}<img name="banaz" src="/images/geziler/2019-7/akyatan/yavru-2.jpeg" width='500px'/>{{% /center %}}
