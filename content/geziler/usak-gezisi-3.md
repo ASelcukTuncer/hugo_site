@@ -96,10 +96,11 @@ verirsem trene yetişemeyecektim. Pedalladım. Hayat bundan ibaretmişçesine. �
 atıştırdım. Eşme’ye 8-10 kilometre kala çok harika bir yokuştan kendimi bırakarak ilçeye vardım. Gezecek vaktim olmadığı için tren istasyonuna gittim. Her şeye rağmen 20 dakika kala istasyondaydım.
 Tren tam zamanında geldi ve bisikletimi yükleyip 1 saatlik yolculukla Uşak’a döndüm(Eşme-Uşak arası bilet 5,5tl).
 
+Bu yolculuğun Wikiloc üzerinden yol kaydına [buradan](https://www.wikiloc.com/cycling-trails/usak-esme-39525135), Strava kaydına ise [buradan](https://www.strava.com/activities/2592310655/shareable_images/map_based?hl=en-US&v=1565090400) ulaşabilirsiniz.
+
+
 {{% center %}}<img name="esme" src="/images/geziler/2019-8/usak-2/esme.jpeg" width='600px'/>{{% /center %}}
 
-
-Bu yolculuğun Wikiloc üzerinden yol kaydına [buradan](https://www.wikiloc.com/cycling-trails/usak-esme-39525135), Strava kaydına ise [buradan](https://www.strava.com/activities/2592310655/shareable_images/map_based?hl=en-US&v=1565090400) ulaşabilirsiniz.
 
 Böylece bu şehri gezdim,gördüm,tanıdım ve yaşadım.
 
