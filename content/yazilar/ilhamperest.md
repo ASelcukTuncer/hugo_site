@@ -3,7 +3,7 @@ title: "İlhamperest"
 date: 2019-07-08T21:30:50+03:00
 draft: true
 author: "ASelcuk"
-categories: ["aklimdakiler","tavsiyeler"]
+categories: ["Tum Yazilar","Aklimdakiler","Tavsiyeler"]
 tags: ["ilham","casey neistat","hasan soylemez","tvmisha","gurkan genc","hale sargin","aklimdakiler","tavsiye"]
 series: ["ilham"]
 toc: true

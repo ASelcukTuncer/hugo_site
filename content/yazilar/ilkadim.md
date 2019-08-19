@@ -3,7 +3,7 @@ title: "İlk Adım"
 date: 2019-06-27T00:25:49+03:00
 draft: true
 author: "ASelcuk"
-categories: ["aklimdakiler"]
+categories: ["Tum Yazilar","Aklimdakiler"]
 tags: ["aklimdakiler"]
 toc: true
 summary: "İlk yazım.. Çektiğim onca acıdan sonra.. Olala!"

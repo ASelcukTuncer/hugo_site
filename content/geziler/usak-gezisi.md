@@ -3,7 +3,7 @@ title: "Bisiklete Dair"
 date: 2019-06-28T22:36:29+03:00
 draft: true
 author: "ASelcuk"
-categories: ["Bisiklet","Yolculuk"]
+categories: ["Tum Yazilar","Bisiklet","Yolculuk"]
 tags: ["bisiklet","seyahat","usak"]
 series: ["usak"]
 summary: "Bisiklet binmek ve Uşak'ta seyahat etmek hakkında.."

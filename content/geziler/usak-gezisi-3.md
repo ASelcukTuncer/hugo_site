@@ -3,7 +3,7 @@ title: "Uşak'ın İlçeleri-2"
 date: 2019-08-18T21:33:44+03:00
 draft: true
 author: "ASelcuk"
-categories: ["Bisiklet","Yolculuk"]
+categories: ["Tum Yazilar","Bisiklet","Yolculuk"]
 tags: ["bisiklet","usak","karahalli","esme","clandras","blaundus","arkadaslar","yolculuk"]
 series: ["usak"]
 summary: "Uşak'ın ilçelerine yaptığım yolculuklara dair gezi yazıları.."
