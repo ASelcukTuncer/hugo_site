@@ -5,7 +5,7 @@ draft: true
 author: "ASelcuk"
 categories: ["Tum Yazilar","Bisiklet","Yolculuk"]
 tags: ["bisiklet","yolculuk","arkadaslar","izmir","aydin","mugla","selcuk","kusadasi","bafa-golu","soke","milas","bodrum"]
-summary: "Selçuk'tan Bodrum'a Uzanan Bisiklet Turu.."
+summary: "Selçuk'tan Bodrum'a uzanan bisiklet turumuz.."
 toc: true
 ---
 Okumadıysanız bir önceki yazım *"Bisiklete Dair"* i okumanızı öneririm, keyifli okumalar!
