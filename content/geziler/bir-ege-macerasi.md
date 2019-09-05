@@ -6,7 +6,7 @@ author: "ASelcuk"
 categories: ["Tum Yazilar","Bisiklet","Yolculuk"]
 tags: ["bisiklet","yolculuk","arkadaslar","izmir","aydin","mugla","selcuk","kusadasi","bafa-golu","soke","milas","bodrum"]
 summary: "Selçuk'tan Bodrum'a uzanan bisiklet turumuz.."
-img: "images/geziler/2019-8/ege/ege-yolları.jpeg"
+img: "images/geziler/2019-8/ege/ege-yollari.jpg"
 
 toc: true
 ---
