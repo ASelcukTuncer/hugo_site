@@ -60,7 +60,7 @@ enableRobotsTXT = true
 
 [params]
   faviconfile              = ""               # from static/ img/zheng.png
-  avatar                   = "img/kedi.jpg"             # path to image in static dir e.g img/avatar.png 
+  avatar                   = "img/kedos.jpg"             # path to image in static dir e.g img/avatar.png 
   author                   = "ASelcuk"
   description              = ["Merak Et! Risk Al! Kesfet!",  "Bu harika dunyada yasadigini hisset!"]           # appears in the site header when set to a non-empty string
   welcome_head             = "Merhaba, Dunya!"
