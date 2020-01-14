@@ -15,7 +15,7 @@ title                      = "ASelcuk"
 # analytics
   googleAnalytics          = "UA-142872222-1"
   disqusShortname		   = "https-aselcuktuncer-github-io"
-    
+  mailchimpURL = "https://github.us4.list-manage.com/subscribe/post?u=c9ba744cd1ec6ed4d81c5fe41&amp;id=441adbc1ef"  
     
 
 pygmentsuseclasses         = true
