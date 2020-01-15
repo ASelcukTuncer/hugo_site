@@ -5,4 +5,4 @@ title = "Yazılar"
 
 +++
 
-Aklımdakileri, paylaşmak istediklerimi ve önerilerimi yazıyorum.
+Aklımdakileri ve paylaşmak istediklerimi yazıyorum.
