@@ -6,7 +6,7 @@ author: "ASelcuk"
 categories: ["Tum Yazilar","Aklimdakiler"]
 tags: ["fernweh","ilham","alexander von humboldt"]
 toc: true
-img: "images/yazilar/2020-1/wanderer-above-the-sea-of-fog.jpg"
+img: "images/yazilar/2020-1/badlands.png"
 summary: "..."
 ---
 
