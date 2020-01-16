@@ -7,6 +7,7 @@ categories: ["Tum Yazilar","Bisiklet","Yolculuk"]
 tags: ["bisiklet","usak","banaz","sivasli","ulubey kanyonu","yolculuk","arkadaslar"]
 series: ["usak"]
 summary: "Uşak'ın ilçelerine yaptığım yolculuklara dair gezi yazıları.."
+description: "Ben Ahmet Selçuk Tunçer.Bu da Uşakta, Banaz, Sivaslı ve Ulubeye Mehmet Keleş ve Çiğdem Bayramla birlikte bisikletle yaptığım seyahetlerin öyküsü"
 toc: true
 ---
 

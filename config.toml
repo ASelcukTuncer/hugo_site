@@ -90,5 +90,6 @@ enableRobotsTXT = true
   twitter                  = "https://www.twitter.com/aselcuktuncer_" 
  
   include_rss              = false                          # include RSS <link> tag in <head> and show RSS icon
-  
+  enableRobotsTXT          = true
+  canonifyURLs             = true
   

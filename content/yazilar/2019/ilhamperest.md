@@ -8,6 +8,7 @@ tags: ["ilham","casey neistat","hasan soylemez","tvmisha","gurkan genc","hale sa
 series: ["ilham"]
 toc: true
 summary: "Beni etkileyenler sizi de etkilerlerler, belki.."
+description: "Ben Ahmet Selçuk Tunçer.Bu da ilham aldığım insanlara dair bir yazı. Casey Neistat, Gürkan Genç, tvMisha(Defne Büyükduman), Hasan Söylemez, Hale Sargın(İşim Gücüm Gezmek)"
 ---
 
 İlham aldığımız kişiler, bizi biz yapan değerleri oluşturmak konusunda muazzam bir öneme sahip. Attığımız adımlarda farkında olarak veya olmayarak onların yürüdüğü yollara yakın yollardan 

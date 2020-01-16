@@ -7,6 +7,7 @@ categories: ["Tum Yazilar","Yolculuk"]
 tags: ["adana","akyatan","deniz kaplumbagalari","wwf-turkiye","doga","gonulluluk","seyahat"]
 toc: true
 img: "images/geziler/2019-7/akyatan/yazi.jpeg"
+description: "Ben Ahmet Selçuk Tunçer.Bu da WWF-Türkiyenin Akyatandaki deniz kaplumbağaları üzerine yürüttüğü projeye dair gönüllülük deneyimlerim"
 summary: "..."
 
 ---

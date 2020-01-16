@@ -7,7 +7,7 @@ categories: ["Tum Yazilar","Bisiklet","Yolculuk"]
 tags: ["bisiklet","yolculuk","arkadaslar","izmir","aydin","mugla","selcuk","kusadasi","bafa-golu","soke","milas","bodrum"]
 summary: "Selçuk'tan Bodrum'a uzanan bisiklet turumuz.."
 img: "images/geziler/2019-8/ege/ege-yollari.jpg"
-
+description: "Ben Ahmet Selçuk Tunçer.Bu da Mehmet Keleş birlikte gerçekleştirdiğimiz ,Selçuktan başlayıp Bodruma uzanan ve bu yolda Kuşadası, Milastan geçen bisiklet turumuz"
 toc: true
 ---
 Okumadıysanız bir önceki yazım *"Bisiklete Dair"* i okumanızı öneririm, keyifli okumalar!

@@ -7,6 +7,7 @@ categories: ["Tum Yazilar","Bisiklet","Yolculuk"]
 tags: ["bisiklet","usak","karahalli","esme","clandras","blaundus","arkadaslar","yolculuk"]
 series: ["usak"]
 summary: "Uşak'ın ilçelerine yaptığım yolculuklara dair gezi yazıları.."
+description: "Ben Ahmet Selçuk Tunçer.Bu da Uşakta, Karahallı ve Eşmeye bisikletle yaptığım seyahetlerin öyküsü"
 toc: true
 ---
 Okumadıysanız bir önceki yazım *"Uşak'ın İlçeleri-1"* i okumanızı öneririm, keyifli okumalar!

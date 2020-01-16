@@ -8,6 +8,7 @@ tags: ["fernweh","ilham","alexander von humboldt"]
 toc: true
 img: "images/yazilar/2020-1/badlands.png"
 summary: "..."
+description: "Ben Ahmet Selçuk Tunçer.Bu da Alexander von Humboldttan öğrendiğim Fernweh kavramına dair bir düşüncelerim"
 ---
 
 *Fernweh*. Uzak diyarlara duyulan özlem. Ötenin çağrısı. Yollara düşüp bilinmeyene gitme arzusu. *Fernweh*. Tek kelimelik şiir. Bu kavramı Salt Beyoğlu’nda Alexander von Humboldt’ın hayatına dair yapılan bir söyleşi sayesinde öğrendim. Hatta Humboldt’un kendisinden öğrendim desem daha doğru olur sanırım(selamlar üstadım!). Benim için anlamı büyük olan böyle bir kavramla karşılaşınca uzun süredir kafamda dönüp duran "yazı yazmalıyım yav" dürtüsünü bu kavrama bağlamaya karar verdim. 

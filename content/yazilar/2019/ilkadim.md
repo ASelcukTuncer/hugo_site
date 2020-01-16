@@ -8,6 +8,7 @@ tags: ["aklimdakiler"]
 toc: true
 summary: "İlk yazım.. Çektiğim onca acıdan sonra.. Olala!"
 img: "images/yazilar/2019-6/howl.jpg"
+description: "Ben Ahmet Selçuk Tunçer.Bu da benim ilk adımım"
 ---
 
 Başlamak hep en zoru. Bugüne kadar aklıma heyecan verici fikirler geldi ama çoğunu gerçekleştirmeden bir kenara bıraktım. Çünkü ilk adımı atmak hep zor olmuştu. İnternet sitesi kurmak da bu fikirlerden biri benim için. Kimya dersinde sıkıntıdan patladığım bir anda aklıma gelmişti site kurmak. Arka sıralardan birinde oturmuş Avrupaya dair gezi planları yaparken ve Erasmus bloglarını incelerken birden aydınlanmıştım. Yurtdışında yaşadığım deneyimlerimi paylaşmak çok güzel olabilirdi. Dahası seyahatlerime ve tecrübelerime dair çok daha kapsamlı paylaşımlar yapabilirdim. Bi site açmak eğlenceli olabilirdi benim için. Bu düşüncelerin getirdiği heyecanla kimyadan sonra, danışmanlık dersinde Turgut Hocaya nasıl websitesi kurabileceğimi sormuştum. Statik site üreteçlerini ve Github Pages’i önermişti üstad.-Bu konu hakkında konuştuğum ilk kişinin Turgut Uyar olması :D -Böylece ne yapmam gerektiğini az çok öğrenmiştim ama yine de cevap bulmam gereken başka sorular da vardı. Neden bi site açmalıyım ki?
