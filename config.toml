@@ -9,13 +9,13 @@ enableEmoji                = true
 hasCJKLanguage             = true
 summaryLength              = 200
 Paginate                   = 3
-
+description                ="Ahmet Selçuk Tunçer"
 theme                      = "AllinOne"
-title                      = "ASelcuk"
+title                      = "ASelçuk"
 # analytics
   googleAnalytics          = "UA-142872222-1"
-  disqusShortname		   = "https-aselcuktuncer-github-io"
-  mailchimpURL = "https://github.us4.list-manage.com/subscribe/post?u=c9ba744cd1ec6ed4d81c5fe41&amp;id=441adbc1ef"  
+  disqusShortname		       = "https-aselcuktuncer-github-io"
+  mailchimpURL             = "https://github.us4.list-manage.com/subscribe/post?u=c9ba744cd1ec6ed4d81c5fe41&amp;id=441adbc1ef"  
     
 
 pygmentsuseclasses         = true
@@ -45,13 +45,13 @@ enableRobotsTXT = true
     url                    = "geziler/"  
 
   [[menu.main]]
-    name                   = "Yazilar"
+    name                   = "Yazılar"
     weight                 = -110
     identifier             = "yazilar"
     url                    = "yazilar/" 
 
   [[menu.main]]
-    name                   = "Hakkimda"
+    name                   = "Hakkımda"
     weight                 = -100
     identifier             = "hakkimda"
     url                    = "hakkimda/"  
@@ -61,10 +61,10 @@ enableRobotsTXT = true
 [params]
   faviconfile              = ""               # from static/ img/zheng.png
   avatar                   = "img/kedos.jpg"             # path to image in static dir e.g img/avatar.png 
-  author                   = "ASelcuk"
-  description              = ["Merak Et! Risk Al! Kesfet!",  "Bu harika dunyada yasadigini hisset!"]           # appears in the site header when set to a non-empty string
-  welcome_head             = "Merhaba, Dunya!"
-  welcome_word             = "Hayat firtinanin gecmesini beklemek degil, yagmurda dans etmeyi ogrenmektir."
+  author                   = "ASelçuk"
+  description              = ["Merak Et! Risk Al! Keşfet!",  "Bu harika dünyada yaşadığını hisset!"]           # appears in the site header when set to a non-empty string
+  welcome_head             = "Merhaba, Dünya!"
+  welcome_word             = "Hayat fırtınanın geçmesini beklemek değil, yağmurda dans etmeyi öğrenmektir."
 
   latestpostscount         = 5                             # how many posts to display on the home page
   bloggroupby              = 'month'
