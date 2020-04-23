@@ -5,4 +5,4 @@ title = "Hakkımda"
 
 +++
 
-Selamlar! Ben Ahmet Selçuk Tunçer. Dünya gezegeninde yaşayan garip bi insanım.
+Merhaba! Ben Ahmet Selçuk Tunçer. Dünya gezegeninde yaşayan garip bi insanım.

@@ -4,7 +4,7 @@ date: 2020-04-23T03:28:28+03:00
 draft: true
 author: "ASelcuk"
 categories: ["Tum Yazilar","Aklimdakiler"]
-tags: ["cosmos"]
+tags: ["cosmos","bilimkurgu","hikaye"]
 toc: true
 img: "images/yazilar/2020-4/pillars_of_creation.jpg"
 summary: "..."
