@@ -5,10 +5,11 @@ draft: true
 author: "ASelcuk"
 categories: ["Tum Yazilar","Aklimdakiler"]
 tags: ["cosmos","bilimkurgu","hikaye"]
+series: ["ilham"]
 toc: true
 img: "images/yazilar/2020-4/pillars_of_creation.jpg"
 summary: "..."
-description: "Ben Ahmet Selçuk Tunçer.Bu da cosmosun muhtemel sonuna dair eğlenceli bakış açım"
+description: "Ben Ahmet Selçuk Tunçer. Bu da kozmosa ve gelecek milyon milyar yıllara dair eğlenceli öyküm"
 ---
 Bu yazı bir kısa bilimkurgu öykü denemesidir. Fikir zihnime düştüğünde bir süre hayalini kurdum sonra da yazmaya giriştim. Üslup ve cümle yapısı hatalarımı ve yazıya yerleştirdiğim olası pek çok bilimsel yanlışı hakkım olmayarak görmezden gelmeni istiyorum çünkü ilk anın heyecanıyla bu hataları düzeltecek sabrı gösteremezdim. Keyifli okumalar!
 
@@ -39,7 +40,7 @@ Ve henüz kimse bunun farkına varamamıştı.
 
 >*Bu kavramı sevgili Ursula’dan çaldım. Affet beni Ursula!
 
->**Bu vesilesiyle *Cosmos* ’u izlemeni isterim. Lütfen izle.
+>**Bu vesilesiyle eğer izlemediysen *Cosmos* ’u izlemeni isterim. Lütfen izle.
 
 >*** Her ne kadar geçerliliğini büyük oranda kaybetmiş olsa da, bu yazıya konu olan olay evrenin  sonunun nasıl gelebileceğini açıklayan *“Büyük Çöküş”* teorisi üzerine.
 
