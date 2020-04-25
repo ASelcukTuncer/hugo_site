@@ -63,7 +63,7 @@ enableRobotsTXT = true
   avatar                   = "img/kedos.jpg"             # path to image in static dir e.g img/avatar.png 
   author                   = "ASelçuk"
   description              = ["Merak Et! Risk Al! Keşfet!",  "Bu harika dünyada yaşadığını hisset!"]           # appears in the site header when set to a non-empty string
-  welcome_head             = "Merhaba, Dünya!"
+  welcome_head             = "per aspera ad astra"
   welcome_word             = "Hayat fırtınanın geçmesini beklemek değil, yağmurda dans etmeyi öğrenmektir."
 
   latestpostscount         = 5                             # how many posts to display on the home page
