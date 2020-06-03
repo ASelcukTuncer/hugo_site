@@ -85,7 +85,7 @@ Ertesi gün sabah 5.30da kalktık. Kahvaltıyı yine seyir terasında yapmaya ka
 
 Ulubey en sevdiğim ilçe oldu benim için.
 
-Bu arada Ulubey Kanyonu dünyanın en büyük 2. kanyonu.
+Bu arada Ulubey Kanyonu dünyanın en büyük 2. kanyonu.(Aylar sonra gelen düzeltme: Ulubey, Dünyanın en büyük 2. kanyonu falan değilmiş. Uşak belediyesinin PR çalışmalarının kurbanı olup uzun zaman boyunca yanlış bilgi paylaşmışım. Araştırıp işin gerçeğini öğreneyim dedim ama dünyanın geri kalanının pek bildiği bir yer değil anlaşılan Ulubey Kanyonları. Ama olsun yine de çok güzel, gidip görmenizi tavsiye ederim. Hem dünyanın en büyük 2. kanyonu olsa ne değişecekti ki zaten :D)
 
 {{% center %}}<img name="manzara" src="/images/geziler/2019-7/usak/manzara.jpeg" width='600px'/>{{% /center %}}
 
